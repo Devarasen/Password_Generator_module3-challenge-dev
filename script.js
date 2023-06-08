@@ -37,6 +37,16 @@ function getPrompts() {
 }
 
 
+function generatePassword() {
+  var passwordGen = "";
+  for(var i=0; i < characterLength; i++) {
+    var randomIndex = Math.floor(Math.random()*choiceArray.length);
+    passwordGen = passwordGen + choiceArray[randomIndex];
+  }
+  return passwordGen
+} 
+
+
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
