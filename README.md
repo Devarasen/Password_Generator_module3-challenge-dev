@@ -6,8 +6,8 @@
 This website showcases a password generator which will generate a password based on a selection of criteria.
 
 These criterias are:
-    - character length will be selected by user limited between 8 - 128 characters.
-    - whether to include lowercase, uppercase, numerical or special characters.
+    1) character length will be selected by user limited between 8 - 128 characters.
+    2) whether to include lowercase, uppercase, numerical or special characters.
 
 
 URL: https://devarasen.github.io/Password_Generator_module3-challenge-dev/
