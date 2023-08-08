@@ -1,19 +1,17 @@
 # <module3-challenge-dev>
 
-
 ## Description
 
 This website showcases a password generator which will generate a password based on a selection of criteria.
 
 These criterias are:
-    - character length will be selected by user limited between 8 - 128 characters.
-    - whether to include lowercase, uppercase, numerical or special characters.
 
+- character length will be selected by user limited between 8 - 128 characters.
+- whether to include lowercase, uppercase, numerical or special characters.
 
 URL: https://devarasen.github.io/Password_Generator_module3-challenge-dev/
 
 ![website screenshots](Capture.PNG)
-
 
 ## Usage
 
@@ -25,19 +23,14 @@ Follow steps:
     4. Window alert will return generated password
     5. Once alert is closed, generated password will remain inside the box on page.
 
-
-
 ## Installation
 
 N/A
-
 
 ## Credits
 
 Speacial thanks to my tutors
 
-  
 ## License
 
 MIT license
-
