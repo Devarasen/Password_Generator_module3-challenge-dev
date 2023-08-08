@@ -11,7 +11,7 @@ These criterias are:
 
 URL: https://devarasen.github.io/Password_Generator_module3-challenge-dev/
 
-![website screenshots](Capture.PNG)
+![website screenshots](./assets/Capture.PNG)
 
 ## Usage
 
