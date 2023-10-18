@@ -9,7 +9,8 @@ These criterias are:
 - character length will be selected by user limited between 8 - 128 characters.
 - whether to include lowercase, uppercase, numerical or special characters.
 
-URL: https://devarasen.github.io/Password_Generator_module3-challenge-dev/
+URL: https://devarasen.github.io/Password_Generator_module3-challenge-dev/  
+Github Repo: https://github.com/Devarasen/Password_Generator_module3-challenge-dev
 
 ![website screenshots](./assets/Capture.PNG)
 
